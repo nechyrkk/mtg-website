@@ -1,0 +1,9 @@
+{
+  "id": "catalog-placeholder",
+  "mode": "built-in image_gen",
+  "referenceImages": [],
+  "prompt": "Use case: product-mockup. One original professional photographic placeholder image for a heavy machinery spare parts catalog, landscape 8:5 aspect ratio. A balanced small arrangement of generic spare parts on a clean light cool gray seamless studio background: an unbranded white cylindrical oil filter, steel ball bearing, compact dark steel gear, a few black rubber O-ring seals and two hydraulic fittings. Main group centered with generous empty margins, realistic steel and rubber, soft commercial studio lighting and contact shadows. Restrained navy and industrial neutral palette, subtle warm orange accent on one filter cap. No people, no brands, no logos, no text, no watermark. This is a generic illustrative assortment, not a photograph identifying a specific product or SKU.",
+  "outputs": [
+    "catalog-placeholder.webp"
+  ]
+}

@@ -4,6 +4,7 @@
 
 - `hero-original.webp` — главная и общие заголовки.
 - `service-original.webp` — сервисный баннер и заголовок услуг.
+- `catalog-placeholder.webp` — общая фотозаглушка с ассортиментом деталей для товаров без фото. Точный запрос — `catalog-placeholder-prompt.json`; создана встроенным ImageGen без фотографий-источников.
 - `equipment/equipment-NN.webp` — 25 изображений для страниц видов техники, ширина до 1440 px.
 - `equipment/equipment-NN-card.webp` — версии для карточек, ширина 640 px.
 - `prompts.json` — полный набор текстовых запросов и пути к результатам. Режим: встроенный `image_gen`, без CLI/API-ключа.

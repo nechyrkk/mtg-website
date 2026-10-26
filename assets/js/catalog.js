@@ -52,20 +52,23 @@
   }
   function productCard(product) {
     const card = document.createElement('article'); card.className = 'catalog-product';
-    if (safeUrl(product.image)) {
-      const image = document.createElement('img'); image.src = product.image; image.alt = product.name; image.loading = 'lazy'; image.width = 320; image.height = 200;
-      card.append(image);
-    } else {
-      card.append(textElement('div', 'Фото уточняйте у менеджера', 'catalog-product__visual'));
-    }
+    const name = window.MTG_CATALOG_FILTER.productName(product);
+    const placeholder = 'assets/images/original/catalog-placeholder.webp';
+    const hasPhoto = Boolean(safeUrl(product.image));
+    const figure = document.createElement('figure'); figure.className = 'catalog-product__figure';
+    const image = document.createElement('img'); image.src = hasPhoto ? product.image : placeholder;
+    image.alt = hasPhoto ? name : 'Иллюстрация: ассортимент запасных частей'; image.loading = 'lazy'; image.width = 320; image.height = 200;
+    const caption = textElement('figcaption', 'Иллюстрация', 'catalog-product__caption'); caption.hidden = hasPhoto;
+    image.addEventListener('error', () => { image.src = placeholder; image.alt = 'Иллюстрация: ассортимент запасных частей'; caption.hidden = false; }, { once: true });
+    figure.append(image, caption); card.append(figure);
     card.append(textElement('p', product.manufacturer || 'Производитель / марка уточняется', 'catalog-product__brand'));
     const title = document.createElement('h3');
     const url = safeUrl(product.url);
-    if (url) { const link = document.createElement('a'); link.href = url; link.textContent = product.name; title.append(link); } else title.textContent = product.name;
+    if (url) { const link = document.createElement('a'); link.href = url; link.textContent = name; title.append(link); } else title.textContent = name;
     card.append(title, textElement('p', 'Артикул: ' + (product.article || 'уточняется'), 'catalog-product__article'));
     if (product.description) card.append(textElement('p', product.description, 'catalog-product__description'));
     const button = textElement('button', 'Запросить цену →', 'button'); button.type = 'button';
-    button.addEventListener('click', () => document.dispatchEvent(new CustomEvent('mtg:order', { detail: { title: [product.name, product.article].filter(Boolean).join(' · ') } })));
+    button.addEventListener('click', () => document.dispatchEvent(new CustomEvent('mtg:order', { detail: { title: [name, product.article].filter(Boolean).join(' · ') } })));
     card.append(button); return card;
   }
   function render(writeUrl = true) {
