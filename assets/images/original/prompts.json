@@ -1,0 +1,270 @@
+[
+  {
+    "id": "equipment-01",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of tracked hydraulic excavator with digging bucket. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-01.webp",
+      "equipment/equipment-01-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-02",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of long-reach demolition excavator beside an industrial demolition site. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-02.webp",
+      "equipment/equipment-02-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-03",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of backhoe loader and compact mini excavator. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-03.webp",
+      "equipment/equipment-03-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-04",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of large mining excavator with face shovel. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-04.webp",
+      "equipment/equipment-04-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-12",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of large wheel loader. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-12.webp",
+      "equipment/equipment-12-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-05",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Wholly original realistic landscape 3:2 website equipment illustration of a walking dragline excavator at an open-pit mine. Very long lattice boom, suspended dragline bucket attached to two steel cables, large box-shaped machinery housing on a walking shoe base, gigantic mining machine clearly distinct from hydraulic excavator. Full machine and bucket within frame, three-quarter view, overcast daylight, gravel terraced mine, restrained yellow and gray palette. Invent a fresh scene with no reference images. No people, brands, lettering, logos or watermarks. Mechanically plausible silhouette.",
+    "outputs": [
+      "equipment/equipment-05.webp",
+      "equipment/equipment-05-card.webp"
+    ]
+  },
+  {
+    "id": "hero-original",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Wholly original landscape 16:9 industrial website hero photograph-like illustration. Large yellow wheel loader and crawler excavator parked in spacious gravel equipment yard, distant low industrial hangar, morning light, detailed metal and tires. Machinery occupies right two thirds, darker empty left third for website text overlay. Fresh invented scene, no reference images. No people, brands, lettering, logos, watermarks. Professional realistic machinery, complete silhouettes.",
+    "outputs": [
+      "hero-original.webp"
+    ]
+  },
+  {
+    "id": "service-original",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Wholly original landscape 3:2 photograph-like illustration for construction machinery service website. Close three-quarter view of yellow excavator inside spacious tidy industrial workshop, open side service compartment showing plausible hydraulic hoses and engine components, tools on mobile cart in foreground, blue steel workshop walls, soft daylight. No reference images. No people, brands, lettering, logos, watermarks. Realistic materials and mechanically credible details.",
+    "outputs": [
+      "service-original.webp"
+    ]
+  },
+  {
+    "id": "equipment-06",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of crawler bulldozer. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-06.webp",
+      "equipment/equipment-06-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-07",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of motor grader. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-07.webp",
+      "equipment/equipment-07-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-08",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of single-drum road roller. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-08.webp",
+      "equipment/equipment-08-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-09",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of tracked asphalt paver. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-09.webp",
+      "equipment/equipment-09-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-10",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of road milling machine. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-10.webp",
+      "equipment/equipment-10-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-16",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of rotary foundation drilling rig. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-16.webp",
+      "equipment/equipment-16-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-13",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of truck mounted mobile crane and truck crane manipulator. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-13.webp",
+      "equipment/equipment-13-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-14",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of small concrete mixer truck and stationary concrete pump. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-14.webp",
+      "equipment/equipment-14-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-15",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of pile driving rig. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-15.webp",
+      "equipment/equipment-15-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-17",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of vibratory plate compactor and tamping rammer. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-17.webp",
+      "equipment/equipment-17-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-18",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of concrete floor saw and jackhammer. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-18.webp",
+      "equipment/equipment-18-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-19",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of road dump truck. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-19.webp",
+      "equipment/equipment-19-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-20",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of articulated mining dump truck. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-20.webp",
+      "equipment/equipment-20-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-21",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of semitrailer tractor with tall woodchip trailer. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-21.webp",
+      "equipment/equipment-21-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-22",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of heavy recovery tow truck. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-22.webp",
+      "equipment/equipment-22-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-23",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of low loader heavy haul trailer. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-23.webp",
+      "equipment/equipment-23-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-24",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of mobile tracked crushing and screening plant. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-24.webp",
+      "equipment/equipment-24-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-25",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Generate a wholly original photograph-like website illustration of road soil stabilizer with milling rotor. Landscape 3:2 composition, complete machinery visible with comfortable margins, mechanically plausible proportions, three quarter view, clean working equipment in a spacious industrial demonstration yard with gravel, pale blue sky and distant trees. Natural daylight, realistic steel and rubber textures, restrained yellow construction machinery with dark gray parts, high visual clarity. No reference photographs. Invent a fresh scene and composition. No people, no brands, no lettering, no logos, no watermarks, no frame. Professional industrial website illustration, not a product identification photo.",
+    "outputs": [
+      "equipment/equipment-25.webp",
+      "equipment/equipment-25-card.webp"
+    ]
+  },
+  {
+    "id": "equipment-11",
+    "mode": "built-in image_gen",
+    "referenceImages": [],
+    "prompt": "Use case: photorealistic-natural. Wholly original landscape 3:2 photograph-like illustration for construction machinery website. A compact yellow telescopic handler with pallet forks and a yellow skid-steer loader with bucket parked side by side in spacious gravel demonstration yard, three-quarter view, full machines within the frame with margins. Realistic steel and rubber, natural daylight, pale blue sky, distant low workshop and trees. Invent a fresh scene without reference photographs. No people, brands, lettering, logos or watermarks. Mechanically plausible machinery.",
+    "outputs": [
+      "equipment/equipment-11.webp",
+      "equipment/equipment-11-card.webp"
+    ]
+  }
+]

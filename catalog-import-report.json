@@ -1,0 +1,77 @@
+{
+  "sourceRows": 28907,
+  "fullProducts": 28897,
+  "supplementalProducts": 22,
+  "supplementaryMatches": 1354,
+  "totalProducts": 28919,
+  "manufacturerLabels": 587,
+  "missingArticle": 2,
+  "missingManufacturer": 5440,
+  "categories": {
+    "other": 18796,
+    "electrics": 991,
+    "engine": 1161,
+    "oils": 273,
+    "filters": 6873,
+    "transmission": 237,
+    "undercarriage": 193,
+    "hydraulics": 395
+  },
+  "excludedRows": [
+    {
+      "row": 2,
+      "name": "CARMIX",
+      "reason": "directory heading"
+    },
+    {
+      "row": 3,
+      "name": "Фильтры",
+      "reason": "directory heading"
+    },
+    {
+      "row": 4,
+      "name": "Фильтры топливные",
+      "reason": "directory heading"
+    },
+    {
+      "row": 28,
+      "name": "ГРУЗОВИК",
+      "reason": "directory heading"
+    },
+    {
+      "row": 29,
+      "name": "Масло",
+      "reason": "directory heading"
+    },
+    {
+      "row": 30,
+      "name": "FANFARO",
+      "reason": "directory heading"
+    },
+    {
+      "row": 32,
+      "name": "SHELL",
+      "reason": "directory heading"
+    },
+    {
+      "row": 99,
+      "name": "ГАЗПРОМНЕФТЬ",
+      "reason": "directory heading"
+    },
+    {
+      "row": 128,
+      "name": "Фильтры масляные",
+      "reason": "directory heading"
+    },
+    {
+      "row": 129,
+      "name": "",
+      "reason": "directory heading"
+    }
+  ],
+  "notes": [
+    "Source labels retained, including brands and country labels.",
+    "Categories inferred conservatively from item names; other requires further classification.",
+    "No product photos, stock levels or prices supplied."
+  ]
+}

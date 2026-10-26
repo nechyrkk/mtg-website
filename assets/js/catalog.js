@@ -52,15 +52,19 @@
   }
   function productCard(product) {
     const card = document.createElement('article'); card.className = 'catalog-product';
-    const image = document.createElement('img'); image.src = safeUrl(product.image) || 'assets/images/placeholder.svg'; image.alt = product.name; image.loading = 'lazy'; image.width = 320; image.height = 200;
-    image.addEventListener('error', () => { image.src = 'assets/images/placeholder.svg'; }, { once: true });
-    card.append(image, textElement('p', product.manufacturer || categories.get(product.category), 'catalog-product__brand'));
+    if (safeUrl(product.image)) {
+      const image = document.createElement('img'); image.src = product.image; image.alt = product.name; image.loading = 'lazy'; image.width = 320; image.height = 200;
+      card.append(image);
+    } else {
+      card.append(textElement('div', 'Фото уточняйте у менеджера', 'catalog-product__visual'));
+    }
+    card.append(textElement('p', product.manufacturer || 'Производитель / марка уточняется', 'catalog-product__brand'));
     const title = document.createElement('h3');
     const url = safeUrl(product.url);
     if (url) { const link = document.createElement('a'); link.href = url; link.textContent = product.name; title.append(link); } else title.textContent = product.name;
     card.append(title, textElement('p', 'Артикул: ' + (product.article || 'уточняется'), 'catalog-product__article'));
     if (product.description) card.append(textElement('p', product.description, 'catalog-product__description'));
-    const button = textElement('button', 'Заказать →', 'button'); button.type = 'button';
+    const button = textElement('button', 'Запросить цену →', 'button'); button.type = 'button';
     button.addEventListener('click', () => document.dispatchEvent(new CustomEvent('mtg:order', { detail: { title: [product.name, product.article].filter(Boolean).join(' · ') } })));
     card.append(button); return card;
   }
